@@ -1,1 +1,1 @@
-hello world!
+HelpNest is an AI-powered civic support platform designed to improve access to government schemes, legal rights, and emergency services. It uses AI to interpret user problems, simplify complex information, and guide users to verified official resources.
